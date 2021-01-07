@@ -1,5 +1,14 @@
 ### Hi there 👋
+### I currently worked on a project in my university in 2020.
+### The name of the project is My Closet - Selecting Clothes Application.
+### It is an Android Application and I developled it through android studio.
+### 저는 최근에 2020년도에 대학교에서 4학년일 때 프로젝트를 진행하였습니다.
+### 프로젝트의 이름은 My Closet - Selecting Clothes Application이고 안드로이드 앱 형식을 띠고 있습니다.
+### 안드로이드 스튜디오를 사용하여 앱을 개발하였습니다.
 
+### 저는 평소에도 꾸준히 코딩 공부와 알고리즘 공부를 병행하였습니다.
+### 그래서 코딩한 기록들을 네이버 블로그와 깃허브에 남겼습니다.
+### 또한 저는 대학교에 다니는 동안 전공공부를 어느 것 하나 소홀히 하지 않고 끈기 있게 열심히 공부했습니다.
 <!--
 **sponge77/sponge77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
