@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋:smile:
  I currently worked on a project in my university in 2020.  
  The name of the project is My Closet - Selecting Clothes Application.  
  It is an Android Application and I developled it through android studio.  
