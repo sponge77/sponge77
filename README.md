@@ -12,7 +12,7 @@
  I enjoy solving problems in Programmers and Baekjoon Online Judge.  
  저는 Programmers와 백준 온라인 저지에 있는 코딩 문제들을 푸는 것을 좋아합니다. 
  
- ### Interest
+ ### Interest :smiley:
  * Leadership
  * languages : C, C++
  * Projects
