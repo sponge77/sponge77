@@ -17,6 +17,9 @@
  * languages : C, C++
  * Projects
     * My Closet - Selecting Clothes Application(done by Android Studio)
+    
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aortldjq7)](https://solved.ac/aortldjq7)
+
  
 <!--
 **sponge77/sponge77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
