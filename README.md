@@ -14,7 +14,7 @@
  
  ### Interest :smiley:
  * Leadership
- * languages : C, C++
+ * languages : C, C++, Python, JAVA
  * Projects
     * My Closet - Selecting Clothes Application(done by Android Studio)
     
