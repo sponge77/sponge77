@@ -18,7 +18,7 @@
  * Projects
     * My Closet - Selecting Clothes Application(done by Android Studio)
     
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aortldjq7)](https://solved.ac/aortldjq7)
+
 
  
 <!--
