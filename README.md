@@ -17,6 +17,7 @@
  * languages : C, C++, Python, JAVA
  * Projects
     * My Closet - Selecting Clothes Application(done by Android Studio)
+    * AI 학기말 Project - Deep Learning
     
 
 
