@@ -22,6 +22,10 @@
     * AI 학기말 Project - Deep Learning Model
     * 인턴활동 - Cloud 자동화 시스템 + Visualization 구현
     
+ ### Github 😄 😻 💙
+* Public Repository : 종합설계프로젝트(My Closet - Selecting Clothes Application), 프로그래밍 공부기록 등
+* Private Repository : AI Project, Assembly Language, 멀티미디어응용수학 코드, Cloud + Visualizaiton 등
+
  ### Subjects 😄 💙
  * 전공과목
  * 1학년 1학기 : 컴퓨터공학개론
@@ -32,11 +36,6 @@
  * 3학년 2학기 : 기초데이터베이스, 네트워크프로그래밍, 멀티미디어응용수학, 오토마타, 운영체제
  * 4학년 1학기 : 창직종합설계프로젝트1, 네트워크보안, 소프트웨어공학, 시스템프로그래밍, 인공지능
  * 4학년 2학기 : 창직종합설계프로젝트2
-
-### Github 😄 😻
-* Public Repository : 종합설계프로젝트(My Closet - Selecting Clothes Application), 프로그래밍 공부기록 등
-* Private Repository : AI Project, Assembly Language, 멀티미디어응용수학 코드, Cloud + Visualizaiton 등
-
 
  
 <!--
