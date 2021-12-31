@@ -18,6 +18,7 @@
  * Projects
     * My Closet - Selecting Clothes Application(done by Android Studio)
     * AI 학기말 Project - Deep Learning Model
+    * 인턴활동 - Cloud 자동화 시스템 + Visualization 구현
     
 
 
