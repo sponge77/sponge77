@@ -12,7 +12,7 @@
  
  I enjoy solving problems in Programmers and Baekjoon Online Judge.  
  저는 Programmers와 백준 온라인 저지에 있는 코딩 문제들을 푸는 것을 좋아합니다. 
- ### 내 블로그 사이트(포트폴리오)
+ ### 내 블로그 사이트(포트폴리오) 
  * https://blog.naver.com/aortldjq7
  ### Interest :smiley:
  * Leadership
