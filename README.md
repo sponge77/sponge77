@@ -9,6 +9,7 @@
  저는 평소에도 꾸준히 코딩 공부와 알고리즘 공부를 병행하였습니다.  
  그래서 코딩한 기록들을 네이버 블로그와 깃허브에 남겼습니다.  
  또한 저는 대학교에 다니는 동안 전공공부를 어느 것 하나 소홀히 하지 않고 끈기 있게 열심히 공부했습니다.  
+ 
  I enjoy solving problems in Programmers and Baekjoon Online Judge.  
  저는 Programmers와 백준 온라인 저지에 있는 코딩 문제들을 푸는 것을 좋아합니다. 
  
