@@ -12,7 +12,8 @@
  
  I enjoy solving problems in Programmers and Baekjoon Online Judge.  
  저는 Programmers와 백준 온라인 저지에 있는 코딩 문제들을 푸는 것을 좋아합니다. 
- 
+ ### 내 블로그 사이트(포트폴리오)
+ * https://blog.naver.com/aortldjq7
  ### Interest :smiley:
  * Leadership
  * Tools : Android Studio, MySQL, Linux, OpenCV, Flask, Html, JavaScript, CSS, 각종 IDE들(Visual Studio, Eclipse, IDLE 등등)
