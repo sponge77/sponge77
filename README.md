@@ -15,7 +15,7 @@
  
  ### Interest :smiley:
  * Leadership
- * Tools : Android Studio, MySQL, Linux, OpenCV, Flask, HTml, JavaScript
+ * Tools : Android Studio, MySQL, Linux, OpenCV, Flask, Html, JavaScript, CSS, 각종 IDE들(Visual Studio, Eclipse, IDLE 등등)
  * languages : C, C++, Python, JAVA
  * Projects
     * My Closet - Selecting Clothes Application(done by Android Studio)
