@@ -2,15 +2,12 @@
  I worked on a project in my university in 2020.  
  The name of the project is My Closet - Selecting Clothes Application.  
  It is an Android Application and I developled it through android studio.  
- 2020년 대학교 4학년에 졸업 프로젝트를 진행하였습니다. 
- 
- 프로젝트의 이름은 My Closet - Selecting Clothes Application입니다. 
- 
- 안드로이드 스튜디오를 사용하여 앱을 개발하였습니다.  
+ 2020년 대학교 4학년에 졸업 프로젝트를 진행하였습니다.  
+ 프로젝트의 이름은 My Closet - Selecting Clothes Application입니다.  
+ 안드로이드 스튜디오를 사용하여 앱을 개발하였습니다.
 
  코딩 공부와 알고리즘 공부를 병행하였습니다.  
  코딩한 기록들을 네이버 블로그와 깃허브에 남겼습니다.  
- 
  I enjoy solving problems in Programmers and Baekjoon Online Judge.  
  <!--Programmers와 백준 온라인 저지에 있는 코딩 문제들을 푸는 것을 좋아합니다. -->
  ### 내 블로그 사이트(포트폴리오) 
