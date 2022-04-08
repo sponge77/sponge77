@@ -14,16 +14,17 @@
  * https://blog.naver.com/aortldjq7
  ### Interest :smiley:
  * Teamwork
- * Tools : Android Studio, MySQL, Linux, OpenCV, Flask, Html, JavaScript, CSS
+ * Tools : Android Studio, MySQL, QT, Linux, OpenCV, Flask, Html, JavaScript, CSS
  * languages : C, C++, Python, JAVA
  * Projects
     * My Closet - Selecting Clothes Application(done by Android Studio)
     * AI 학기말 Project - Deep Learning Model
     * 인턴활동 - Cloud 자동화 시스템 + Visualization 구현
+    * 소켓 통신 에뮬레이터 개발
     
  ### Github 😄 😻 💙
 * Public Repository : 종합설계프로젝트(My Closet - Selecting Clothes Application), 프로그래밍 기록 등
-* Private Repository : AI Project, Assembly Language, 멀티미디어응용수학 코드, Cloud + Visualizaiton 등
+* Private Repository : AI Project, Assembly Language, 멀티미디어응용수학 코드, Cloud + Visualizaiton, 소켓 통신 에뮬레이터 등
 
 ### Subjects 😄 💙
  * 전공과목
