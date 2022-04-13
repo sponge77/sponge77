@@ -15,7 +15,7 @@
  ### Interest :smiley:
  * Teamwork
  * Tools : Android Studio, MySQL, QT, Linux, OpenCV, Flask, Html, JavaScript, CSS
- * languages : C, C++, Python, JAVA
+ * languages : C, C++, C#, Python, JAVA
  * Projects
     * My Closet - Selecting Clothes Application(done by Android Studio)
     * AI 학기말 Project - Deep Learning Model
