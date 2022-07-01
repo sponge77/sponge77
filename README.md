@@ -20,6 +20,7 @@
     * My Closet - Selecting Clothes Application(done by Android Studio)
     * AI 학기말 Project - Deep Learning Model
     * 인턴활동 - Cloud 자동화 시스템 + Visualization 구현
+    * 스마트 양식 시스템 개발
     * 소켓 통신 에뮬레이터 개발
     
  ### Github 😄 😻 💙
