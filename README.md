@@ -71,7 +71,7 @@
  * 4학년 1학기 : 창직종합설계프로젝트1, 네트워크보안, 소프트웨어공학, 시스템프로그래밍, 인공지능
  * 4학년 2학기 : 창직종합설계프로젝트2
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sponge77&layout=compact)
+ <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sponge77&layout=compact)-->
 
 <br>
 
